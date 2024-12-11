@@ -1,5 +1,5 @@
 
-#Bangalore House Price Prediction
+# Bangalore House Price Prediction
 This repository contains the code and process used for predicting house prices in Bangalore, India, using machine learning. This is my first data science project, where I focused on exploring, cleaning, and modeling house price data to build predictive models. The final model was deployed using Streamlit to showcase the results.
 
 Project Overview
