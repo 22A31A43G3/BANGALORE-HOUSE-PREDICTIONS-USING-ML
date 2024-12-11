@@ -26,9 +26,9 @@ Trained the best model with the highest accuracy, which achieved 73% accuracy.
 ## Deployment:
 Deployed the model with the highest accuracy using Streamlit, providing a user-friendly interface to input features and predict house prices in real-time.
 ### Technologies Used:
-1.Python
-2.Pandas
-3.Numpy
-4.Matplotlib, Seaborn (for EDA and visualization)
-5.Scikit-learn (for modeling)
-6.Streamlit (for deployment)
+1.Python<BR>
+2.Pandas<BR>
+3.Numpy<BR>
+4.Matplotlib, Seaborn (for EDA and visualization)<BR>
+5.Scikit-learn (for modeling)<BR>
+6.Streamlit (for deployment)<BR>
