@@ -1,5 +1,5 @@
 import warnings
-warnings.filterwarnings('ignore')  # Ignore warnings
+warnings.filterwarnings('ignore')
 import streamlit as sl
 import pickle
 import numpy  as np
